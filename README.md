@@ -9,3 +9,4 @@ During the project we employed NLP to perform topic modelling on the papers, whi
 Hereafter, we performed an author network analysis, which provided us with insights into the collaboration patterns and knowledge-sharing practices in the field. We also developed a classification model to classify papers into topics based on their abstracts.
 
 In summary, the outcomes of the project provided valuable insights into the field of artificial intelligence in business and could inform future research directions.
+
